@@ -1,5 +1,3 @@
-./dockerFactorial/node_modules
-./dockerFactorial/build/*
 ./docker-with-pg/frontend/node_modules
 ./docker-with-pg/frontend/build/*
 ./docker-with-pg/backend/node_modules
