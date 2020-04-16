@@ -2,3 +2,5 @@
 ./docker-with-pg/frontend/build/*
 ./docker-with-pg/backend/node_modules
 ./docker-with-pg/backend/build/*
+./docker-factorial/node_modules
+./docker-factorial/build/*
